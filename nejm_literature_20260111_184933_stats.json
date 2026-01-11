@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "total_searched": 2000,
+    "total_fetched": 2000,
+    "errors": 0,
+    "success_rate": "100.0%"
+  },
+  "by_type": {
+    "Correspondence": 1138,
+    "Original Article": 79
+  },
+  "by_year": {
+    "2024": 276,
+    "2025": 920,
+    "2026": 21
+  },
+  "generated_at": "2026-01-11T18:49:33.638923"
+}

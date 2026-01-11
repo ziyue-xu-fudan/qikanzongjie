@@ -1,0 +1,12 @@
+NEJM文献DOI筛选统计报告
+生成时间: 2026-01-11 20:12:13
+输入文件: /Users/ziyuexu/Documents/trae_projects/paper1/csv-TheNewEngl-set (1)_authors_ge5.csv
+筛选模式: NEJMoa
+
+原始文献总数: 302 篇
+筛选后文献数: 165 篇
+被过滤文献数: 302 - 165 = 137 篇
+存活率: 54.6%
+
+DOI模式匹配统计:
+  10.1056: 165 篇
